@@ -4,6 +4,6 @@ colorFrom: Bkue
 colorTo: Black
 sdk: streamlit
 sdk_version: 1.19.0
-app_file: main.py
+app_file: Home.py
 pinned: false
 license: unknown
